@@ -5,7 +5,7 @@
 
 ### Github status
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hiro-tex&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hiro-tex&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
 ![M-Hiro's stats](https://github-readme-stats.vercel.app/api?username=M-Hiro-tex&show_icons=true&theme=radical&include_all_commits=true)
 
 
