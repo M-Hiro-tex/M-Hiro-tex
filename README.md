@@ -4,9 +4,7 @@
 **M-Hiro-tex/M-Hiro-tex** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 ### Github status
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=M-Hiro-tex&layout=compact)(https://github.com/anuraghazra/github-readme-stats)
-![M-Hiro's stats](https://github-readme-stats.vercel.app/api?username=M-Hiro-tex&show_icons=true&theme=radical&include_all_commits=true)
+![M-Hiro-tex's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Hiro-tex&show_icons=true&theme=radical)
 
 
 Here are some ideas to get you started:
