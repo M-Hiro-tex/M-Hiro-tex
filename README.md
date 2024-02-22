@@ -2,7 +2,8 @@
 
 ### Github status
 ![M-Hiro-tex's GitHub stats](https://github-readme-stats.vercel.app/api?username=M-Hiro-tex&show_icons=true&theme=radical)
-
+### My note Account
+<img width="296" alt="image" src="https://github.com/M-Hiro-tex/M-Hiro-tex/assets/65996266/40f1c869-ecca-4bfb-b86e-4062ad680db8">
 
 Here are some ideas to get you started:
 
